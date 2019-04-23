@@ -1,0 +1,5 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
