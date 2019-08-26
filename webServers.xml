@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c8c2cd49-16f2-48f8-8f0e-69fe07676262" name="dev" url="https://thefundworks.dev.zitec.ro">
+        <fileTransfer host="thefundworks.dev.zitec.ro" port="22" rootFolder="/var/www/thefundworks/current" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
